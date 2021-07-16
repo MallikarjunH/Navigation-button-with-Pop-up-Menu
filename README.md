@@ -1,10 +1,11 @@
-Navigation Button with Popup Menu
+## Navigation Button with Popup Menu
+
 Good example which shows a pop-up menu after clicking on navigation button. 
 
 Original project is here https://github.com/liufengting/FTPopOverMenu
 
 
-Navigation-button-with-Popup-Menu-Swift-Example
+## Navigation-button-with-Popup-Menu-Swift-Example
 
 If you want to customize pop over menu then goto FTConstants.swift file and do custom changes.
 
